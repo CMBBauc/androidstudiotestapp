@@ -44,6 +44,6 @@
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
     <string name="sample_text">Sample Text</string>
-    <string name="button">Button</string>
+    <string name="random_button">Random</string>
     <string name="toast_button_text">Toast</string>
 </resources>
